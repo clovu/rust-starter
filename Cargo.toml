@@ -1,7 +1,11 @@
 [package]
+edition = "2024"
 name = "rust-template"
 version = "0.1.0"
-edition = "2024"
+
+[workspace]
+members = ["crates/file-macro"]
 
 [dependencies]
 dotenv = "0.15.0"
+file-macro = { path = "crates/file-macro", features = ["derive"] }

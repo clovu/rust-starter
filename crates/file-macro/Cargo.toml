@@ -1,0 +1,10 @@
+[package]
+edition = "2024"
+name = "file-macro"
+version = "0.1.0"
+
+[dependencies]
+file-macro-derive = { path = "../file-macro-derive", optional = true }
+
+[features]
+derive = ["dep:file-macro-derive"]
