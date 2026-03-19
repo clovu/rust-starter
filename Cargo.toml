@@ -7,5 +7,5 @@ version = "0.1.2"
 members = ["crates/file-macro"]
 
 [dependencies]
-dotenv = "0.15.0"
+dotenvy = "0.15.7"
 file-macro = { path = "crates/file-macro", features = ["derive"] }

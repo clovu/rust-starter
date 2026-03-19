@@ -5,7 +5,7 @@ use file_macro::FileOps;
 
 fn main() -> Result<()> {
     // load env profile
-    dotenv::dotenv()?;
+    dotenvy::dotenv()?;
 
     let files = FileUtils::list_file_path(".")?;
 
