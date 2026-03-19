@@ -44,4 +44,4 @@ A simple Rust project template to kickstart your development.
 
 ## License
 
-MIT License © 2025 [Clover You](https://github.com/clovu)
+MIT License © 2026 [Clover You](https://github.com/clovu)
