@@ -42,7 +42,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust-template"
+name = "rust-starter"
 version = "0.1.2"
 dependencies = [
  "dotenv",

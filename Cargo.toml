@@ -1,6 +1,6 @@
 [package]
 edition = "2024"
-name = "rust-template"
+name = "rust-starter"
 version = "0.1.2"
 
 [workspace]
