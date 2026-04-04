@@ -20,7 +20,7 @@ A simple Rust project template to kickstart your development.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/rust-template.git
+   git clone https://github.com/clovu/rust-template.git
    cd rust-template
    ```
 
